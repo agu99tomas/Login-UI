@@ -1,2 +1,2 @@
 # Login UI
-![](screenshots/login-ui.png)
+<img src="screenshots/login-ui.png" height="400" />
